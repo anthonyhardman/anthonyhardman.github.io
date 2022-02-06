@@ -1,20 +1,22 @@
-A First Level Header
-====================
+This is a header!
+=================
 
-A Second Level Header
----------------------
+This is a paragraph with *emphaized text*. Very cool!
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+Below is an unordered list.
+* Booze
+* More Booze
+* ALL THE BOOZE!
 
-The quick brown fox jumped over the lazy
-dog's back.
+Below is an ordered list.
+1. Booze
+2. More Booze
+3. ALL THE BOOZE!
 
-### Header 3
+This is a [link](https://learnopengl.com/ "LearnOpenGL")
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
+This is a second level header and below is a picture of a goose.
+----------------------------------------------------------------
+<!-- This image was take from Pixabay under the creatinve commons license. -->
+![goose](/images/goose.jpg)
+Very majestic if you ask me
