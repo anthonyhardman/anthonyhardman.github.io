@@ -1,7 +1,7 @@
 This is a header!
 =================
 
-This is a paragraph with *emphaized text*. Very cool!
+This is a paragraph with *emphasized text*. Very cool!
 
 Below is an unordered list.
 * Booze
